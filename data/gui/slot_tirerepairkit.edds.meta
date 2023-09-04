@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{EF1B7E3EA63A7830}ZenMods/ZenCarWorkbench/data/gui/slot_tirerepairkit.png"
+ Author "mattjuly22"
+ ChangeDate -1347735794
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "slot_tirerepairkit.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

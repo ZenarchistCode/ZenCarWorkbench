@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{88FE18946EA1A4A4}ZenMods/ZenCarWorkbench/data/gui/slot_gasoline.png"
+ Author "mattjuly22"
+ ChangeDate -1347735794
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "slot_gasoline.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
