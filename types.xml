@@ -6,7 +6,7 @@
     </type>
 	<type name="Zen_CarWorkbenchKit">
 		<nominal>2</nominal>
-		<lifetime>172800</lifetime>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
