@@ -44,32 +44,3 @@ Repack & Source Code:
 You can repack this mod if you like, and do anything else you want with it for that matter. The source code is on my GitHub at www.zenarchist.io
 
 Enjoy!
-
-
-
-
-
-
-
-Types.XML:
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<types>
-    <type name="Zen_CarWorkbench">
-        <lifetime>2419200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    </type>
-    <type name="Zen_CarWorkbenchKit">
-        <nominal>2</nominal>
-        <lifetime>172800</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools" />
-        <tag name="floor"/>
-        <usage name="Industrial" />
-    </type>
-</types>
