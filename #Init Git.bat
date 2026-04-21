@@ -2,6 +2,8 @@
 
 SET /P giturl="Git URL: "
 
+*.bat > .gitignore
+
 git init
 git add .
 git commit -m "Source code."
